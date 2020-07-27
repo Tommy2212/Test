@@ -8,5 +8,6 @@ namespace Test1a
 {
     class Class2
     {
+        //hello
     }
 }
